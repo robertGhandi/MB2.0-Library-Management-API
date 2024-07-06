@@ -1,0 +1,8 @@
+Functional Requirements
+- Users can login  ✅
+- Users can register  ✅
+- Users can search for a book whether registered or not ✅
+- Only registered users can borrow a book ✅
+- Only the user with role = "Admin" can add, update and delete a book ✅
+- Only the user with role = "Admin" can add, update and delete an author ✅
+- 
